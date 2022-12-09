@@ -1,5 +1,5 @@
 
-# Hello, World! (hello)
+# MKCert initialization (mkcert)
 
 A hello world feature
 
@@ -7,9 +7,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-starter/hello:1": {
-        "version": "latest"
-    }
+    "ghcr.io/ermik/devcontainer-features/mkcert:0": {}
 }
 ```
 

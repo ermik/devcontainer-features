@@ -1,0 +1,13 @@
+{
+    "name": "MKCert",
+    "id": "mkcert",
+    "version": "0.0.1",
+    "description": "",
+    "options": {
+        "download-url": {
+            "type": "string",
+            "description": "URL of the mkcert binary",
+            "default": "https://github.com/FiloSottile/mkcert/releases/download/v1.4.4/mkcert-v1.4.4-linux-arm64"
+        }
+    }
+}
