@@ -1,7 +1,7 @@
 
-# MKCert initialization (mkcert)
+# MKCert (mkcert)
 
-A hello world feature
+
 
 ## Example Usage
 
@@ -15,10 +15,10 @@ A hello world feature
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
+| download-url | URL of the mkcert binary | string | https://github.com/FiloSottile/mkcert/releases/download/v1.4.4/mkcert-v1.4.4-linux-arm64 |
 
 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/feature-starter/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/ermik/devcontainer-features/blob/main/src/mkcert/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
